@@ -74,7 +74,7 @@ westongraham@github
 | ![Weston's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westongraham&theme=algolia)                          | 
     
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                      My's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=westongraham&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
 
@@ -85,7 +85,7 @@ westongraham@github
   <tr>
   <td width="50%" valign="top">
 
-## Let's Work on Your Project Together!
+## Let's Work Together!
 
 If you have any questions for me, feel free to <a href="mailto:westongraham11@gmail.com">contact me through email</a>.
 
