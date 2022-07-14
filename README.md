@@ -15,7 +15,7 @@ Hi, I'm Weston Graham!
 ```
 westongraham@github
 -------------------------
-💻 I am a student studying Information Technology with a concentration in orogramming
+💻 I am a student studying Information Technology with a concentration in programming
 📚 I will be graduating with a Bachelors in Information Technology from the University of Arkansas Fort Smith
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Java, C#
@@ -87,9 +87,9 @@ westongraham@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions for me, feel free to <a href="mailto:westongraham11@gmail.com">contact me through email</a> me.
+If you have any questions for me, feel free to <a href="mailto:westongraham11@gmail.com">contact me through email</a>
 
-Connect with me! Check out my website <a href="https://westongraham.github.io">Website</a> or <a href="https://www.linkedin.com/in/westongraham/">LinkedIn</a>.
+Connect with me! Check out my <a href="https://westongraham.github.io">Website</a> or <a href="https://www.linkedin.com/in/westongraham/">LinkedIn</a>.
 
   </td>
   <td width="50%" valign="top">
