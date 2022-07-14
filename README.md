@@ -87,7 +87,7 @@ westongraham@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions for me, feel free to <a href="mailto:westongraham11@gmail.com">contact me through email</a>
+If you have any questions for me, feel free to <a href="mailto:westongraham11@gmail.com">contact me through email</a>.
 
 Connect with me! Check out my <a href="https://westongraham.github.io">Website</a> or <a href="https://www.linkedin.com/in/westongraham/">LinkedIn</a>.
 
