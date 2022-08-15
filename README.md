@@ -17,8 +17,8 @@ westongraham@github
 -------------------------
 💻 I am a student studying Information Technology with a concentration in programming
 📚 I will be graduating with a Bachelors in Information Technology from the University of Arkansas Fort Smith
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Java, C#
+🌱 Learning about API's and 
+🌟 Main languages: Java, C#, HTML / CSS.
 🚩 Interested in Full Stack Machine Learning Application development
 🏀 I am a big OKC Thunder fan
 ```
