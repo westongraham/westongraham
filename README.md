@@ -16,7 +16,7 @@ Hi, I'm Weston Graham!
 westongraham@github
 -------------------------
 💻 I am a student studying Information Technology with a concentration in Programming
-📚 I will be graduating with a Bachelors in Information Technology - Programming from the University of Arkansas Fort Smith
+📚 I will be graduating with a Bachelors in Information Technology from the University of Arkansas Fort Smith
 🌱 Learning about software engineering, API's, and database systems
 🌟 Main languages: Java, C#, HTML / CSS.
 🚩 Interested in Full Stack Application development
