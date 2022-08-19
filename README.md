@@ -15,35 +15,41 @@ Hi, I'm Weston Graham!
 ```
 westongraham@github
 -------------------------
-💻 I am a student studying Information Technology with a concentration in programming
-📚 I will be graduating with a Bachelors in Information Technology from the University of Arkansas Fort Smith
-🌱 Learning about API's and 
+💻 I am a student studying Information Technology with a concentration in Programming
+📚 I will be graduating with a Bachelors in Information Technology - Programming from the University of Arkansas Fort Smith
+🌱 Learning about software engineering, API's, and database systems
 🌟 Main languages: Java, C#, HTML / CSS.
-🚩 Interested in Full Stack Machine Learning Application development
-🏀 I am a big OKC Thunder fan
+🚩 Interested in Full Stack Application development
+🏀 I am a huge OKC Thunder fan
 ```
 <hr>
 
 
 ## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming and Markup Languages
 
 <p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
   
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -64,21 +70,35 @@ westongraham@github
 </p>
 
 
-## GitHub Stats
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Weston Graham's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=WestonGraham&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Weston Graham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WestonGraham&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
 
-|                                                                    My Stats                                                                         |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Weston's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=westongraham&theme=react-dark&hide_border=true&area=true) |
-| ![Weston's github stats](https://github-readme-stats.vercel.app/api?username=westongraham&show_icons=true&theme=algolia)              | 
-| ![Weston's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=westongraham&theme=algolia)                          | 
-    
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
 
-|                                                                                                      My's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=westongraham&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#9](https://github.com/WestonGraham/github-readme-stats/pull/9) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)
+2. 💪 Opened PR [#9](https://github.com/WestonGraham/github-readme-stats/pull/9) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)
+3. 🎉 Merged PR [#8](https://github.com/WestonGraham/github-readme-stats/pull/8) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)
+4. 💪 Opened PR [#8](https://github.com/WestonGraham/github-readme-stats/pull/8) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)
+5. 🎉 Merged PR [#6](https://github.com/WestonGraham/github-readme-stats/pull/6) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)
+<!--END_SECTION:activity-->
+</details>
 
-
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Weston Graham's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=WestonGraham&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 <table style="border: none">
