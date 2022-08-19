@@ -89,11 +89,9 @@ westongraham@github
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/WestonGraham/github-readme-stats/pull/9) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)
-2. 💪 Opened PR [#9](https://github.com/WestonGraham/github-readme-stats/pull/9) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)
-3. 🎉 Merged PR [#8](https://github.com/WestonGraham/github-readme-stats/pull/8) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)
-4. 💪 Opened PR [#8](https://github.com/WestonGraham/github-readme-stats/pull/8) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)
-5. 🎉 Merged PR [#6](https://github.com/WestonGraham/github-readme-stats/pull/6) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)
+<!--1. 🎉 Merged PR [#9](https://github.com/WestonGraham/github-readme-stats/pull/9) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)
+2. 💪 Opened PR [#9](https://github.com/WestonGraham/github-readme-stats/pull/9) in [WestonGraham/github-readme-stats](https://github.com/WestonGraham/github-readme-stats)-->
+  🎉Coming Soon
 <!--END_SECTION:activity-->
 </details>
 
@@ -127,7 +125,7 @@ Connect with me! Check out my <a href="https://westongraham.github.io">Website</
 
 ------
 Credits: [westongraham](https://github.com/westongraham)
-Last Edited On: 07/19/2022
+Last Edited On: 08/19/2022
 
 
 
